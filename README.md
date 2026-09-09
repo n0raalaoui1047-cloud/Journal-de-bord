@@ -15,3 +15,11 @@
 - aussi, en cliquant F6, il y a toutes les options d'outils (brosses, crayons, etc)
 - 5: pour créer un calque vectoriel ou autre, cliquer sur la flèche à côté du + dans les calques
 - 6: pour insérer une image, drag and drop
+
+# Journal de bord 2
+
+## Exercice exploratoire en image (avec l'aide de ChatGPT)
+-1: pour mettre une image en arrière plan, cliquer sur fichier et ouvrir l'image
+-2: pour mettre une 2e image par dessus, ouvrir un nouveau calque, aller dans calque, sélectionner importer-exporter et sélectionner l'image
+-3: pour déplacer ou modifier l'image de 2e plan, CTRL T = transformation
+-4: enregistrer le projet en allant dans fichier, enregistrer sous, et écrire un nom de fichier avec .kra
