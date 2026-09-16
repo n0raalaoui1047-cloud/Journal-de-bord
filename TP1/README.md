@@ -17,9 +17,10 @@
 
 ## Inspiration
 - Le style de mon image a été inspiré par un meme populaire sur les réseaux, dans lequel un sujet est encerclé et pointé avec un texte évident, sarcastique, etc.
-- Voici un exemple:
+- Voici des exemples:
   
   <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/6a725256-5ba5-41ef-a701-f5b41432b9de" />
+  <img width="736" height="723" alt="6e10853cf0decb9b52fe4111af45857d" src="https://github.com/user-attachments/assets/5b48b5f7-e1e7-4db8-810e-68ee3fd9357c" />
 
 ## Sources
 - Arrière plan forêt en montagne : <https://peakvisor.com/park/green-mountain-national-forest.html
