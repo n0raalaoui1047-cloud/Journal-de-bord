@@ -25,4 +25,4 @@
 ## Sources
 - Arrière plan forêt en montagne : <https://peakvisor.com/park/green-mountain-national-forest.html
 - Photo de l'écureuil: <https://img.freepik.com/psd-premium/ecureuil-fond-transparent_838900-19313.jpg
-- Photo de l'inspiration: <https://ca.pinterest.com/pin/687361961929615113/
+- Photos de l'inspiration: <https://ca.pinterest.com/pin/687361961929615113/ et https://ca.pinterest.com/pin/1084241679056020811/
