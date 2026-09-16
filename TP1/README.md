@@ -16,7 +16,7 @@
 - 4: Je trouve encore que les options pour modifier la police du texte ou la taille de la brosse, par exemples, ne sont pas évidentes.
 
 ## Inspiration
-- Le style de mon image a été inspiré par un meme populaire sur les réseaux, dans lequel un sujet est encerclé et pointé avec un texte
+- Le style de mon image a été inspiré par un meme populaire sur les réseaux, dans lequel un sujet est encerclé et pointé avec un texte évident, sarcastique, etc.
 - Voici un exemple:
   
   <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/6a725256-5ba5-41ef-a701-f5b41432b9de" />
