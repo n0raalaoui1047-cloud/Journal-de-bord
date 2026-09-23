@@ -15,6 +15,8 @@
 - aussi, en cliquant F6, il y a toutes les options d'outils (brosses, crayons, etc)
 - 5: pour créer un calque vectoriel ou autre, cliquer sur la flèche à côté du + dans les calques
 - 6: pour insérer une image, drag and drop
+- 7: pour changer la taille du pinceau, appuyer sur Maj et [ ou ] 
+
 
 # Journal de bord 2
 
@@ -23,3 +25,11 @@
 -2: pour mettre une 2e image par dessus, ouvrir un nouveau calque, aller dans calque, sélectionner importer-exporter et sélectionner l'image
 -3: pour déplacer ou modifier l'image de 2e plan, CTRL T = transformation
 -4: enregistrer le projet en allant dans fichier, enregistrer sous, et écrire un nom de fichier avec .kra
+
+# Journal de bord 3
+
+## Pour créer une animation
+-1: dans krita, ouvrir une nouvelle image avec la configuration standard (1920x1080)
+-2: aller dans fenêtre-> espace de travail -> storyboard
+-3: appuyer sur le x en bas à droite pour ajouter une fenêtre
+<img width="3809" height="2159" alt="image" src="https://github.com/user-attachments/assets/9299e047-8170-47ee-8943-98a41d41b50b" />
