@@ -33,3 +33,11 @@
 -2: aller dans fenêtre-> espace de travail -> storyboard
 -3: appuyer sur le x en bas à droite pour ajouter une fenêtre
 <img width="3809" height="2159" alt="image" src="https://github.com/user-attachments/assets/9299e047-8170-47ee-8943-98a41d41b50b" />
+
+# Journal de bord 4
+
+## Exercice d'animation: Brique qui tombe
+-1: Pour mettre un masque de transformation, aller dans paramètres, panneaux puis courbe d'animation
+-2: Identifier le calque qui appartient à chaque élément et le dupliquer pour pouvoir l'animer (appuyer sur l'oeil pour voir lequel est lequel)
+-3: Pour appliquer le masque de transformation, sélectionner avec le transport du calque, puis l'espace dans le temps, et finalement la courbe d'animation (le premier bouton à la droite des paramètres de vitesse)
+-4: Pour exporter l'animation, l'enregistrer(CTRL S), ensuite aller dans fichiers et sélectionner rendu de l'animation, sélectionner gif et exporter en vidéo(plutôt que séquence d'images).
