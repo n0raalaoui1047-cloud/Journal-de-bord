@@ -43,3 +43,9 @@
 - 4: Pour exporter l'animation, l'enregistrer(CTRL S), ensuite aller dans fichiers et sélectionner rendu de l'animation, sélectionner gif et exporter en vidéo(plutôt que séquence d'images).
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b6ecb629-46a3-4079-98c2-0938dc40f27f" />
 
+# Journal de bord 5 
+
+## Préparation de l'évaluation somative 2
+- 1: J'ai fait un sketch des scènes de base de l'animation
+- <img width="3024" height="4032" alt="IMG_0431" src="https://github.com/user-attachments/assets/faadbdba-184c-4960-a61c-df897aa1e7cb" />
+- 2: 
