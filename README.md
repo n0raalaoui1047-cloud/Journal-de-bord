@@ -26,6 +26,7 @@
 - 3: pour déplacer ou modifier l'image de 2e plan, CTRL T = transformation
 - 4: enregistrer le projet en allant dans fichier, enregistrer sous, et écrire un nom de fichier avec .kra
 
+
 # Journal de bord 3
 
 ## Pour créer une animation
@@ -33,6 +34,8 @@
 - 2: aller dans fenêtre-> espace de travail -> storyboard
 - 3: appuyer sur le x en bas à droite pour ajouter une fenêtre
 <img width="3809" height="2159" alt="image" src="https://github.com/user-attachments/assets/9299e047-8170-47ee-8943-98a41d41b50b" />
+
+
 
 # Journal de bord 4
 
@@ -43,14 +46,40 @@
 - 4: Pour exporter l'animation, l'enregistrer(CTRL S), ensuite aller dans fichiers et sélectionner rendu de l'animation, sélectionner gif et exporter en vidéo(plutôt que séquence d'images).
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b6ecb629-46a3-4079-98c2-0938dc40f27f" />
 
+
+
 # Journal de bord 5 
 
-## Préparation de l'évaluation somative 2
+## Préparation de l'évaluation sommative 2
 - 1: J'ai fait un sketch des scènes de base de l'animation
+- J'ai commencé à visualiser et planifier les thèmes et les scènes que j'aimerais avoir dans mon animation.
   <img width="3024" height="4032" alt="IMG_0431" src="https://github.com/user-attachments/assets/faadbdba-184c-4960-a61c-df897aa1e7cb" />
 
+  
+
 # Journal de bord 6
-- 1: J'ai dessiné ma première scène 
+
+## Préparation de l'évaluation sommative 2
+- 1: J'ai dessiné ma première scène
+- J'ai eu de la difficulté à dessiner des lignes droites et à ajouter des détails au début
+- Ensuite j'ai commencé à plus zoomer, et tenir la souris différemment, ce qui m'a beaucoup aidée.
 <img width="3839" height="2087" alt="Capture d’écran 2026-10-28 122533" src="https://github.com/user-attachments/assets/856a202b-7088-46e9-92ba-04a020ffa1fb" />
+
+
+
+# Journal de bord 7
+
+## Préparation de l'évaluation sommative 2
+- J'ai passé tout le cours à décider quelles méthodes d'animation je vais incorporer dans les différentes scènes.
+- J'ai décidé d'incorporer ces 4 principes:
+- 1: Anticipation
+- 2: Écrasement et étirement
+- 3: Exagération
+- 4: Retards et chevauchements
+  
+
+# Journal de bord 8
+- J'ai exporté mon animation sur GIF, MP4 et kra.
+
 
 
