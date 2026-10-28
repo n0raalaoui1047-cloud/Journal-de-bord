@@ -21,7 +21,7 @@
 
 ## Inspiration
 - J'avais en tête le thème d'un blues. Je voulais animer un personnage qui vivait une vie en boucle, de travail et de mélancolie.
-- J'ai choisi de garder les couleurs en noir et blanc pour illustrer encore plus le sentiment vécu.
+- J'ai choisi de garder les couleurs en noir et blanc pour illustrer encore plus le sentiment vécu (et c'est plus facile à exporter).
 - J'ai aussi choisi d'ajouter des éléments comme la cigarette et l'hiver, avec des enfants qui jouent dehors qu'il ne remarque pas, pour accentuer cette atmosphère.
 - Le thème est inspiré d'une personne que je connais personnellement, ce qui m'a vraiment motivée à travailler dessus.
 
