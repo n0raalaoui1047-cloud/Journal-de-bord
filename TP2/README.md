@@ -28,6 +28,6 @@
 ## Commentaires
 - J'aurais voulu que les détails comme les yeux, etc. soient mieux travaillés. J'ai eu de la difficulté à balancer mon temps pour faire les détails dans les images versus l'animation en tant que tel. Au début, j'ai passé un cours complet sur une seule image. Puis, j'ai décidé de recommencer en gardant les traits un peu plus simples (surtout le visage et les mains, j'ai aussi abandonné l'idée de lui donner des cheveux).
 - J'ai dessiné le personnage dans une genre de grille avec des scènes, d'abord sur papier puis sur mon ordinateur (j'ai eu un peu de difficulté à cacher les cases dans certaines scènes).
-- Je me suis beaucoup améliorée à dessiner avec la souris, surtout en apprenant à ajuster ma souris et à me déplacer sur mon écran (zoomer, etc).
+- Je me suis beaucoup améliorée à dessiner avec la souris, surtout en apprenant à ajuster ma souris et à me déplacer sur mon écran (zoomer, etc.). Je dois beaucoup à ma sœur qui étudie en art et qui m'a aidée dans mes proportions et mes techniques!
 - J'ai beaucoup aimé utiliser les masques de transformation, je les ai trouvés très pratiques comparés à l'image par image.
 - J'ai eu de la difficulté à faire l'animation image par image, parce qu'il y avait des éléments dans mon animation que je ne pouvais pas redessiner parfaitement et je n'arrivais pas à copier coller à mon goût.
