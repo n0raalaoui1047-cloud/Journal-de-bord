@@ -54,7 +54,6 @@
 - 1: J'ai fait un sketch des scènes de base de l'animation
 - J'ai commencé à visualiser et planifier les thèmes et les scènes que j'aimerais avoir dans mon animation.
   <img width="3024" height="4032" alt="IMG_0431" src="https://github.com/user-attachments/assets/faadbdba-184c-4960-a61c-df897aa1e7cb" />
-
   
 
 # Journal de bord 6
@@ -64,6 +63,7 @@
 - J'ai eu de la difficulté à dessiner des lignes droites et à ajouter des détails au début
 - Ensuite j'ai commencé à plus zoomer, et tenir la souris différemment, ce qui m'a beaucoup aidée.
 <img width="3839" height="2087" alt="Capture d’écran 2026-10-28 122533" src="https://github.com/user-attachments/assets/856a202b-7088-46e9-92ba-04a020ffa1fb" />
+- Je pense que je passe trop de temps sur les détails, je vais peut-être recommencer en plus simple 
 
 
 
@@ -76,9 +76,10 @@
 - 2: Écrasement et étirement
 - 3: Exagération
 - 4: Retards et chevauchements
-  
+- J'ai commencer à dessiner les premières scènes.
 
 # Journal de bord 8
+- J'ai fini mon animation au fur et à mesure à la maison.
 - J'ai exporté mon animation sur GIF, MP4 et kra.
 
 
