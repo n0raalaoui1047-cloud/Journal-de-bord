@@ -5,6 +5,7 @@
 ## Description
 - L'animation dure 20 secondes.
 - La fréquence est de 12 images par secondes.
+- La résolution est de 1280 x 720.
 - 4 principes d'animation ont été utilisés.
 - 1) Anticipation :
      - scène 1: le personnage prépare son mouvement avant d'étendre son bras pour éteindre son alarme.
