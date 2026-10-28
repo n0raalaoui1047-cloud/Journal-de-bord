@@ -47,7 +47,9 @@
 
 ## Préparation de l'évaluation somative 2
 - 1: J'ai fait un sketch des scènes de base de l'animation
-- <img width="3024" height="4032" alt="IMG_0431" src="https://github.com/user-attachments/assets/faadbdba-184c-4960-a61c-df897aa1e7cb" />
+  <img width="3024" height="4032" alt="IMG_0431" src="https://github.com/user-attachments/assets/faadbdba-184c-4960-a61c-df897aa1e7cb" />
 
 # Journal de bord 6
+- 1: J'ai dessiné ma première scène 
+<img width="3839" height="2159" alt="Capture d’écran 2026-10-07 142306" src="https://github.com/user-attachments/assets/c4fb8020-9b83-42fd-864c-d8057fd6fcf4" />
 
