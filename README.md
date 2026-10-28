@@ -51,5 +51,6 @@
 
 # Journal de bord 6
 - 1: J'ai dessiné ma première scène 
-<img width="3839" height="2159" alt="Capture d’écran 2026-10-07 142306" src="https://github.com/user-attachments/assets/c4fb8020-9b83-42fd-864c-d8057fd6fcf4" />
+<img width="3839" height="2087" alt="Capture d’écran 2026-10-28 122533" src="https://github.com/user-attachments/assets/856a202b-7088-46e9-92ba-04a020ffa1fb" />
+
 
