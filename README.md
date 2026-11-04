@@ -82,5 +82,8 @@
 - J'ai fini mon animation au fur et à mesure à la maison (sur mon ordinateur à écran tactile et avec l'aide de ma sœur l'artiste!). 
 - J'ai exporté mon animation sur GIF, MP4 et kra. (avec l'aide de chatGPT).
 
+# Journal de bord 10
 
-
+- J'ai installé Kdenlive sur l'ordinateur pour la première fois.
+- J'ai créé un compte Freesound 
+<img width="3839" height="2159" alt="Capture d’écran 2026-11-04 123107" src="https://github.com/user-attachments/assets/b0bcfc94-1b2f-449c-9abe-493b122ce1e8" />
