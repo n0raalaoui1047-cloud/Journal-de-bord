@@ -87,3 +87,5 @@
 - J'ai installé Kdenlive sur l'ordinateur pour la première fois.
 - J'ai créé un compte Freesound 
 <img width="3839" height="2159" alt="Capture d’écran 2026-11-04 123107" src="https://github.com/user-attachments/assets/b0bcfc94-1b2f-449c-9abe-493b122ce1e8" />
+
+# Journal de bord 10
