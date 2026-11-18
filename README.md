@@ -89,3 +89,8 @@
 <img width="3839" height="2159" alt="Capture d’écran 2026-11-04 123107" src="https://github.com/user-attachments/assets/b0bcfc94-1b2f-449c-9abe-493b122ce1e8" />
 
 # Journal de bord 10
+- J'ai complété le TP3 en sonorisant mon animation du TP2.
+- J'ai utilisé dans sons dans FreeSound.
+- J'ai parfois superposé des sons pour créer une atmosphère ambiante.
+- L'objectif était d'illustrer la mélancolie du personnage.
+- J'ai appris comment importer des médias, ajouter des pistes et les superposer, rogner des sons, ajouter certains effets, etc.
