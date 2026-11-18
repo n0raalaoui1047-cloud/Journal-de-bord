@@ -5,7 +5,7 @@
 https://github.com/user-attachments/assets/257596bf-fb7a-459d-be14-ea51869a4d8d
 
 ## Description
-- Sonorisation de la vidéo créée pour le TP3.
+- Sonorisation de la vidéo créée pour le TP2.
 
 ## Inspiration
 - Le but état de compléter l'atmosphère mélancolique du quotidien
