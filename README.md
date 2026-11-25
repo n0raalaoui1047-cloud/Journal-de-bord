@@ -88,9 +88,22 @@
 - J'ai créé un compte Freesound 
 <img width="3839" height="2159" alt="Capture d’écran 2026-11-04 123107" src="https://github.com/user-attachments/assets/b0bcfc94-1b2f-449c-9abe-493b122ce1e8" />
 
-# Journal de bord 10
+# Journal de bord 11
 - J'ai complété le TP3 en sonorisant mon animation du TP2.
 - J'ai utilisé dans sons dans FreeSound.
 - J'ai parfois superposé des sons pour créer une atmosphère ambiante.
 - L'objectif était d'illustrer la mélancolie du personnage.
 - J'ai appris comment importer des médias, ajouter des pistes et les superposer, rogner des sons, ajouter certains effets, etc.
+
+# Journal de bord 13
+
+## Préparation de l'évaluation sommative 3
+- J'ai commencé à penser à une nouvelle idée d'animation.
+- Inspiration: un poème que j'aime beaucoup de Shel Silverstein - She had blue skin, and so did he. He kept it hid and so did she. They searched for blue their whole life through, then passed right by- and never knew. (Every Thing on It).
+- Idée: créer une animation qui montre deux personnages qui se recherchent de la même manière, avec une ambiance poétique. Ce serait beau d'ajouter le poème quelque part dans l'animation, peut-être à la fin.
+## Scénarisation
+- Deux personnages bleus côte à côte (écran divisé) qui se préparent le matin, un homme et une femme.
+- Ils mettent tous les deux des masques rouges avant de sortir de chez eux.
+- Ils vivent parmis d'autres personnes rouges en cherchant du bleu (une bulle montre leurs pensées)
+- Ils finissent par passer l'un devant l'autre dans la rue sans se remarquer.
+- Ils rentrent chez eux. 
