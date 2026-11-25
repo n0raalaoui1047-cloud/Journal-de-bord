@@ -107,3 +107,6 @@
 - Ils vivent parmis d'autres personnes rouges en cherchant du bleu (une bulle montre leurs pensées)
 - Ils finissent par passer l'un devant l'autre dans la rue sans se remarquer.
 - Ils rentrent chez eux. 
+## Sketch
+- J'ai commencé à dessiner les grandes lignes des scènes que je veux faire.
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/0bc957e0-be94-490a-b654-09bae6a9384c" />
